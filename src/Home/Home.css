@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("../assets/img/cartagena-colombia.jpg");
+    padding: 25%;
+    position: relative;
+    z-index: 1;
+    background-attachment: fixed;
+}
